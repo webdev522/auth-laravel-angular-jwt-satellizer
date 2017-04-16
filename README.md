@@ -11,6 +11,8 @@ $ composer install
 
 $ bower install
 
+$ php artisan migrate
+
 $ php artisan serve
 ```
 
